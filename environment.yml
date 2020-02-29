@@ -1,0 +1,8 @@
+name: ai-architecture-template
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6.2
+  - pip
+  - pip:
+    - Microsoft-AI-Azure-Utility-Samples
